@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UNIVPM</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+
+    <string name="agraria">Agraria</string>
+    <string name="of_agraria">Offerta formativa Agraria</string>
+    <string name="time_agraria">Orari Agraria</string>
+    <string name="economia">Economia</string>
+    <string name="ingegneria">Ingegneria</string>
+    <string name="medicina">Medicina</string>
+    <string name="scienze">Scienze</string>
+
+    <string name="prova">
+      <a href="https://www.ingegneria.univpm.it/sites/www.ingegneria.univpm.it/files/ingegneria/guida_ingegneria/guida_2019_2020/pdf_270/[IT01]_L_CA_18.pdf">PDF</a>
+    </string>
+</resources>
