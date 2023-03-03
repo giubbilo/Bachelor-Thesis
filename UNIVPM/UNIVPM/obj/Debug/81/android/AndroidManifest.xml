@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="UNIVPM.UNIVPM" android:installLocation="auto">
+  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="27" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+  <uses-permission android:name="android.permission.MEDIA_CONTENT_CONTROL" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:allowBackup="true" android:label="@string/app_name" android:roundIcon="@mipmap/ic_launcher_round" android:supportsRtl="true" android:theme="@style/AppTheme" android:icon="@drawable/ic_nav_cdl_ing" android:name="android.app.Application" android:debuggable="true">
+    <activity android:name=".cdl"></activity>
+    <activity android:label="Corsi di Laurea - Agraria" android:name="md59c6e42a47ebff12a262d0a9599d5b4b0.CdL_Agr" />
+    <activity android:label="Corsi di Laurea - Agraria" android:name="md59c6e42a47ebff12a262d0a9599d5b4b0.CdL_Agr_Orari" />
+    <activity android:label="Ricerca docenti" android:name="md59c6e42a47ebff12a262d0a9599d5b4b0.SearchDoc" />
+    <activity android:icon="@drawable/logo_app" android:label="@string/app_name" android:theme="@style/AppTheme.NoActionBar" android:name="md59c6e42a47ebff12a262d0a9599d5b4b0.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Corsi di Laurea - Ingegneria" android:name="md59c6e42a47ebff12a262d0a9599d5b4b0.CdL_Ing" />
+    <activity android:label="Mappe Economia" android:name="md59c6e42a47ebff12a262d0a9599d5b4b0.Map_Eco" />
+    <activity android:label="Mappe Medicina" android:name="md59c6e42a47ebff12a262d0a9599d5b4b0.Map_Med" />
+    <activity android:label="Segreteria Agraria" android:name="md59c6e42a47ebff12a262d0a9599d5b4b0.Seg_Agr" />
+    <activity android:label="Segreteria Economia" android:name="md59c6e42a47ebff12a262d0a9599d5b4b0.Seg_Eco" />
+    <activity android:label="Segreteria Ingegneria" android:name="md59c6e42a47ebff12a262d0a9599d5b4b0.Seg_Ing" />
+    <activity android:label="Segreteria Medicina" android:name="md59c6e42a47ebff12a262d0a9599d5b4b0.Seg_Med" />
+    <activity android:label="Segreteria Scienze Biologiche" android:name="md59c6e42a47ebff12a262d0a9599d5b4b0.Seg_Scie" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="UNIVPM.UNIVPM.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.UNIVPM.UNIVPM" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>
