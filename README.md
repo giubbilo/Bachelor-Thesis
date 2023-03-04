@@ -17,7 +17,7 @@ The file has been written using *MiKTeX* that provides the tools necessary to pr
 Bibliography
 
 ## How to deploy the app
-The app has been created using Android 8.1 (API 27). I updated the config files in order to run it using Android 13 (API 33) and it works.
+The app has been created using Android 8.1 (API 27). I updated the config files in order to run it using Android 13 (API 33).
 
 If you want to try you should need to install:
 - Visual Studio 2022 (I used the Community edition)
