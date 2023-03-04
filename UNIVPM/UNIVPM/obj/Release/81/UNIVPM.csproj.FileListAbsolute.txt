@@ -1,0 +1,6 @@
+C:\Users\Davide\Documents\GitHub\Bachelor-Thesis\UNIVPM\UNIVPM\obj\Release\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Davide\Documents\GitHub\Bachelor-Thesis\UNIVPM\UNIVPM\obj\Release\81\build.props
+C:\Users\Davide\Documents\GitHub\Bachelor-Thesis\UNIVPM\UNIVPM\obj\Release\81\adb.props
+C:\Users\Davide\Documents\GitHub\Bachelor-Thesis\UNIVPM\UNIVPM\obj\Release\81\UNIVPM.csproj.AssemblyReference.cache
+C:\Users\Davide\Documents\GitHub\Bachelor-Thesis\UNIVPM\UNIVPM\obj\Release\81\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Davide\Documents\GitHub\Bachelor-Thesis\UNIVPM\UNIVPM\obj\Release\81\res.flag

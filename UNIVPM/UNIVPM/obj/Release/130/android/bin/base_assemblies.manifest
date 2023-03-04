@@ -1,0 +1,26 @@
+Hash 32     Hash 64             Blob ID  Blob idx  Name
+0xdf3fc006  0x827f0f9389313e9c  000      0000      UNIVPM
+0xe70c9739  0xa3d8433bc5eb5d95  000      0001      SQLite-net
+0xd9140542  0x95fc97076a1149b1  000      0002      SQLitePCLRaw.batteries_green
+0x2ca248c0  0x55cf092b0c9d6f59  000      0003      SQLitePCLRaw.batteries_v2
+0xc849ca45  0x120fce3f338e43c6  000      0004      SQLitePCLRaw.core
+0x785fa3ec  0xe37f403e4206b381  000      0005      SQLitePCLRaw.lib.e_sqlite3
+0xdfca27bc  0x151223783a354eca  000      0006      SQLitePCLRaw.provider.e_sqlite3
+0xb6e8e036  0xf67b9bfb46dbac71  000      0007      Xamarin.Android.Arch.Lifecycle.Common
+0x4d54f66a  0x0bbfd9583890bb5b  000      0008      Xamarin.Android.Arch.Lifecycle.LiveData.Core
+0x4174b615  0xf79a40a25573dfe5  000      0009      Xamarin.Android.Arch.Lifecycle.ViewModel
+0x1ead1551  0x9de14f3d5fc13cc4  000      0010      Xamarin.Android.Support.Compat
+0x202beec7  0x838013ff707b9766  000      0011      Xamarin.Android.Support.Design
+0x7f858cc2  0x29514fb392c97af2  000      0012      Xamarin.Android.Support.DrawerLayout
+0x5627bde0  0x12a14d31b1d4d88a  000      0013      Xamarin.Android.Support.Fragment
+0x79d85b77  0x8efea647eeb3fd99  000      0014      Xamarin.Android.Support.Loader
+0xdb3d354c  0x18366e19eeceb202  000      0015      Xamarin.Android.Support.v7.AppCompat
+0x79708790  0xf2a2644fe5b6ef05  000      0016      Xamarin.Android.Support.ViewPager
+0xc8a662e9  0x77b654e585b55834  000      0017      Java.Interop
+0xcf3163e6  0x01accec39cafe242  000      0018      Mono.Android
+0x1bc4415d  0xe99c30c1484d7f4f  000      0019      mscorlib
+0xf76edc75  0x98f9bc61168392ac  000      0020      System.Core
+0x41761b2c  0xe03056ea4e39aa26  000      0021      System
+0x8334206b  0x6a3a4366801b8264  000      0022      System.Net.Http
+0xc197c562  0x8ac2470b209ebae3  000      0023      Mono.Security
+0x132b30dd  0x31042a9aade235bb  000      0024      System.Numerics

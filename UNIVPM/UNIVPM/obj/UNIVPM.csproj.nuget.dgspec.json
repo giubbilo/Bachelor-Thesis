@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Davide\\Documents\\GitHub\\Bachelor-Thesis\\UNIVPM\\UNIVPM\\UNIVPM.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Davide\\Documents\\GitHub\\Bachelor-Thesis\\UNIVPM\\UNIVPM\\UNIVPM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Davide\\Documents\\GitHub\\Bachelor-Thesis\\UNIVPM\\UNIVPM\\UNIVPM.csproj",
+        "projectName": "UNIVPM",
+        "projectPath": "C:\\Users\\Davide\\Documents\\GitHub\\Bachelor-Thesis\\UNIVPM\\UNIVPM\\UNIVPM.csproj",
+        "packagesPath": "C:\\Users\\Davide\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Davide\\Documents\\GitHub\\Bachelor-Thesis\\UNIVPM\\UNIVPM\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Davide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {
+          "dependencies": {
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.6.292, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
