@@ -23,4 +23,16 @@ If you want to try you should need to install:
 - Visual Studio 2022 (I used the Community edition)
 - .NET Multi-platform App UI development 
 - Xamarin and Xamarin Remoted Simulator
-- Android SDK (at least for 8.1)
+- Android SDK 13
+- Android emulated device
+  - Model: Pixel 5
+  - Android 13.0 - API 33
+  - Google APIs : Yes
+  - Processor: x86_64
+  - Memory: 1 GB
+  - Resolution: 1080 x 2340 - 440 dpi
+
+After installing these components, you need to:
+- import the project double clicking the *UNIVPM.sln* file
+- start the emulated device
+- select *Release* in the menu and click on the button *Pixel 5 - API33 ...* ![immagine](https://user-images.githubusercontent.com/92432998/222914586-e6a53c40-7245-46d8-93d1-c7f8b25e2296.png)
